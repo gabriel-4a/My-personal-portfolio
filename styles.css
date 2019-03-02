@@ -1,12 +1,13 @@
 body {
   text-align: center;
+  background-color: #fce77d;
 }
 
 h3 {
   font-size: 4em;
   font-family: 'arial', serif;
   font-family: 'Kaushan Script', cursive;
-  background-color: #ff1e1e;
+  background-color: #f96167;
   //margin-left:%;
   //margin-right:%;
 }
@@ -33,11 +34,4 @@ img {
 
 ol li{
   list-style-type: none;
-
-body {background-color: coral;}
-
-
-
-
-
 }
